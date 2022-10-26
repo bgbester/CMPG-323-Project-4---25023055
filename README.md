@@ -15,3 +15,4 @@ We have 7 automation workflows
 7. Delete Device U - This workflow will run through the excel sheet and delete all records on the webapp
 
 We built everything in UIpath. Please see reference dos for all information used to create the automation bot
+Please use the excel document for testing data and reference it in the data model, please note that no error testing has been done.
